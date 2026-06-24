@@ -3,11 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
-      <excludeFolder url="file://$MODULE_DIR$/lesson 10/.venv" />
-      <excludeFolder url="file://$MODULE_DIR$/lesson 12/.venv" />
-      <excludeFolder url="file://$MODULE_DIR$/lessson 11/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (lesson 2)" jdkType="Python SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
